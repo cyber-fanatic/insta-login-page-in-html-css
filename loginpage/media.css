@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+    .item1 {
+        display: none;
+    }
+    .item2{
+        text-align: center;
+        height: 710px;
+        font-size: 30px;
+        font-weight: 600px;
+        grid-area: sidebar2;
+        color: snow;
+    }
+}
